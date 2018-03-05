@@ -1,3 +1,26 @@
 .body{
-	background-color: black;
+	background-image: url("img_tree.gif"), url("http://avante.biz/wp-content/uploads/Hip-hop-Wallpapers/Hip-hop-Wallpapers-054.jpg");
+	background-color:;
+}
+.header{
+
+
+}
+.foto{
+	width: 300px;
+	height: 300px;
+	margin:00px;
+	padding:00px;
+	border-radius: 155px;
+	display: flex;
+	justify-content:flex-end;
+}
+.p{
+	font-size: 30px;
+	text-align: center;
+	font-weight: bolder;
+
+}
+.h1{
+	text-align: center;
 }
