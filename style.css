@@ -1,26 +1,42 @@
-.body{
-	background-image: url("img_tree.gif"), url("http://avante.biz/wp-content/uploads/Hip-hop-Wallpapers/Hip-hop-Wallpapers-054.jpg");
-	background-color:;
+body{
+	background-color: black;
+	color: #fff;
 }
-.header{
+header{
+	display: flex;
+	align-items: center;
+	justify-content: center;
 
-
+	flex-direction: column;
+	color: #fff;
 }
 .foto{
 	width: 300px;
 	height: 300px;
 	margin:00px;
 	padding:00px;
-	border-radius: 155px;
-	display: flex;
-	justify-content:flex-end;
+	border-radius: 50%;
 }
 .p{
-	font-size: 30px;
+	font-size: 15px;
 	text-align: center;
 	font-weight: bolder;
 
 }
 .h1{
 	text-align: center;
+}
+.ul1{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+}
+.li1{
+	list-style-type: none;
+	margin: 0 10px;
+}
+.imgfa{
+	width: 100px;
+	height: 100px;
 }
