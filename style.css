@@ -1,4 +1,5 @@
 body{
+	background: url(http://www.gamesonomy.com/publications/258805/image.jpg);
 	background-color: black;
 	color: #fff;
 }
@@ -37,6 +38,6 @@ header{
 	margin: 0 10px;
 }
 .imgfa{
-	width: 100px;
-	height: 100px;
+	width: 70px;
+	height: 70px;
 }
